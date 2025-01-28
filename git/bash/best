@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "Best School"
+=======
+echo "Best"
+>>>>>>> 704fbc097875c96521120a28f8d50ac2a57584dc
